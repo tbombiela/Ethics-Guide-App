@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/Ethics-Guide-App/static/js/main.661a51ef.js",
+    "main.js": "/Ethics-Guide-App/static/js/main.b51c0cd5.js",
     "static/js/453.82e5fe4a.chunk.js": "/Ethics-Guide-App/static/js/453.82e5fe4a.chunk.js",
     "index.html": "/Ethics-Guide-App/index.html",
-    "main.661a51ef.js.map": "/Ethics-Guide-App/static/js/main.661a51ef.js.map",
+    "main.b51c0cd5.js.map": "/Ethics-Guide-App/static/js/main.b51c0cd5.js.map",
     "453.82e5fe4a.chunk.js.map": "/Ethics-Guide-App/static/js/453.82e5fe4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.661a51ef.js"
+    "static/js/main.b51c0cd5.js"
   ]
 }
